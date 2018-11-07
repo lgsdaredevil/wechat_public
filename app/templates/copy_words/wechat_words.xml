@@ -1,0 +1,7 @@
+<xml>
+<ToUserName>{{ toUser }}</ToUserName>
+<FromUserName>{{ fromUser }}</FromUserName>
+<CreateTime>{{ createTime }}</CreateTime>
+<MsgType>{{  }}</MsgType>
+<Content>{{ content }}</Content>
+</xml>
